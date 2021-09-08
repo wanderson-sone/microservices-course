@@ -5,7 +5,7 @@
 
 ## Sobre o projeto
 
-Projeto desenvolvido para fins de estudos/aprendizagem sobe a arquitetura de microsserviços Java com Spring Cloud.
+Projeto desenvolvido para fins de estudos/aprendizagem sobre a arquitetura de microsserviços Java com Spring Cloud.
 
 # Tecnologias utilizadas
 
